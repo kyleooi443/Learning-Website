@@ -1,4 +1,4 @@
-# 🗂️ DeskMate
+# DeskMate 🗂️
 
 > **A productivity app built for students** — organize tasks, manage study time, and stay on top of school life in one place.
 
