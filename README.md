@@ -4,62 +4,57 @@
 
 ---
 
-## 💡 Idea
+## Idea
 
 Students juggle assignments, exams, deadlines, and personal time across too many disconnected tools (notes apps, calendars, reminders, sticky notes). **DeskMate** brings the essentials into **one lightweight, distraction-free web app** designed specifically around a student's routine — not a generic project-management tool repurposed for school.
 
 ---
 
-## 🎯 Target Users
+## Target Users
 
-- 🎓 **High school and university students**
-- 📚 Students juggling **multiple classes/subjects and deadlines**
-- 🧘 Anyone who wants a **simple, focused (not bloated)** productivity tool
+- **High school and university students**
+- Students juggling **multiple classes/subjects and deadlines**
+- Anyone who wants a **simple, focused (not bloated)** productivity tool
 
 ---
 
-## ✨ Core Features (MVP)
+## Core Features (MVP)
 
-- [ ] ✅ **Task Manager**
+- [ ] **Task Manager**
   - Add, edit, complete, and delete tasks
   - Group tasks by subject/class
-- [ ] 📅 **Assignment Tracker**
+- [ ] **Assignment Tracker**
   - Due dates with visual urgency indicators
   - Color-coded by how soon a task is due
-- [ ] ⏱️ **Study Timer**
+- [ ] **Study Timer**
   - Built-in Pomodoro-style timer
   - Short/long break cycles
-- [ ] 🗓️ **Daily/Weekly Planner View**
+- [ ] **Daily/Weekly Planner View**
   - See everything due at a glance
-- [ ] 📊 **Progress Dashboard**
+- [ ] **Progress Dashboard**
   - Simple stats: tasks completed, study hours logged, streaks
 
-## 🌱 Stretch Features (Post-MVP)
+## Stretch Features (Post-MVP)
 
-- [ ] 🌙 Dark mode
-- [ ] 💾 Local storage or account-based sync (data persists between sessions)
-- [ ] 🏷️ Subject/class color tagging
-- [ ] 🔔 Notifications/reminders for upcoming deadlines
-- [ ] 🔗 Calendar integration (Google Calendar sync)
-- [ ] 🎓 Grade tracker / GPA calculator
-- [ ] 🏆 Study streak gamification (badges, milestones)
-- [ ] 👥 Collaborative study groups or shared task lists
+- [ ] Dark mode
+- [ ] Local storage or account-based sync (data persists between sessions)
+- [ ] Subject/class color tagging
+- [ ] Notifications/reminders for upcoming deadlines
+- [ ] Calendar integration (Google Calendar sync)
+- [ ] Grade tracker / GPA calculator
+- [ ] Study streak gamification (badges, milestones)
+- [ ] Collaborative study groups or shared task lists
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Layer | Tool |
-|---|---|
-| 🧱 Markup | **HTML5** |
-| 🎨 Styling | **Tailwind CSS** |
-| ⚛️ Frontend Framework | **React.js** |
-| 🔧 Version Control | **Git + GitHub** |
-| 🚀 Hosting (suggested) | **Vercel / Netlify** |
+| 🧱 Markup | **HTML5** | | 🎨 Styling | **Tailwind CSS** |
+| ⚛️ Frontend Framework | **React.js** | | 🔧 Version Control | **Git + GitHub** |
 
 ---
 
-## 📁 Suggested Project Structure
+## Suggested Project Structure
 
 ```
 deskmate/
@@ -86,7 +81,7 @@ deskmate/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 **1. Clone the repo**
 ```bash
@@ -110,20 +105,10 @@ npm start
 
 ---
 
-## 🗺️ Roadmap
+## Contributors
 
-- [ ] 🧩 **Phase 1** — Wireframes & UI mockups
-- [ ] 🛠️ **Phase 2** — Core task manager + timer (MVP)
-- [ ] 📅 **Phase 3** — Planner view + dashboard
-- [ ] ✨ **Phase 4** — Polish, responsiveness, and stretch features
-- [ ] 🚀 **Phase 5** — Deploy & gather feedback
-
----
-
-## 🤝 Contributors
-
-- 👤 **[Your Name]** — Role/focus (e.g., Frontend, UI/UX)
-- 👤 **[Friend's Name]** — Role/focus (e.g., Logic, State Management)
+- **[Mark Daniel C. Commendador]** — Pogi 1
+- **[Kyle Andrew B. Masilang]** — Pogi 2
 
 ---
 
