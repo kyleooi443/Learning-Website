@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    
+}
+
+header{
+    background: linear-gradient(140deg,rgb(0, 2, 101),rgb(1, 4, 171), rgb(1, 5, 236));
+    height: 70px;
+    width: auto;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header h1,p{
+    color: white;
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav{
+    background: linear-gradient(140deg,rgb(0, 2, 101),rgb(1, 4, 171), rgb(1, 5, 236));
+    height: 50px;
+    width: auto;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+nav a{
+    color: white;
+    margin: 0;
+}
+nav img{
+    height: 45px;
+    width: auto;
+}
+
