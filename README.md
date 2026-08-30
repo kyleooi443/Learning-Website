@@ -54,7 +54,7 @@ Students juggle assignments, exams, deadlines, and personal time across too many
 
 ---
 
-## Suggested Project Structure
+## Project Structure
 
 ```
 deskmate/
