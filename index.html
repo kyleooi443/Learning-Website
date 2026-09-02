@@ -36,7 +36,56 @@
         </div>
     </header>
 
-    <main></main>
+    <main class="main-content">
+        <section id="dashboard" class="section active">
+            <h2>Dashboard</h2>
+            <div class="stats-container">
+                <div class="stat-card">
+                    <div class="stat-icon">✅</div>
+                    <div class="stat-content">
+                        <h3>Tasks Completed</h3>
+                        <p class="stat-number" id="completedCount">0</p>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">⏱️</div>
+                    <div class="stat-content">
+                        <h3>Study Hours</h3>
+                        <p class="stat-number" id="studyHours">0</p>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">🔥</div>
+                    <div class="stat-content">
+                        <h3>Current Streak</h3>
+                        <p class="stat-number" id="streakCount">0</p>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon">📋</div>
+                    <div class="stat-content">
+                        <h3>Active Tasks</h3>
+                        <p class="stat-number" id="activeCount">0</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="overview-section">
+                <div class="overview-box">
+                    <h3>Upcoming Due Dates</h3>
+                    <div id="upcomingList" class="upcoming-list">
+                        <p class="empty-state">No upcoming assignments</p>
+                    </div>
+                </div>
+                <div class="overview-box">
+                    <h3>Today's Tasks</h3>
+                    <div id="todayList" class="today-list">
+                        <p class="empty-state">No tasks for today</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
     
     <section></section>
     
